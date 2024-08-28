@@ -1,1 +1,3 @@
 I am a AI300 Student
+
+I want to add a new line to show that git works.
